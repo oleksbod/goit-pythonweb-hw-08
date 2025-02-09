@@ -19,7 +19,7 @@ alembic revision --autogenerate -m 'Init'
 alembic upgrade head
 ```
 
-## Run Queries
+## Run FastAPI
 
 ```bash
 python main.py
